@@ -175,6 +175,6 @@
   },
   {
     "title": "git revert <commit hash>",
-    "description": "This git revert use to undo commit history." 
+    "description": "The git revert is used for changes to a repository's commit history." 
   }
 ]

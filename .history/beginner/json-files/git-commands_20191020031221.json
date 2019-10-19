@@ -174,7 +174,7 @@
     "description": "View the commits history." 
   },
   {
-    "title": "git revert <commit hash>",
-    "description": "This git revert use to undo commit history." 
+    "title": "git revert [COMMIT_ID]",
+    "description": "Make a new commit." 
   }
 ]
